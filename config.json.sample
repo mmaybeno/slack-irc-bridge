@@ -1,0 +1,18 @@
+[
+  {
+    "nickname": "test",
+    "server": "irc.bottest.org",
+    "token": "slack_bot_user_OAuth_Access_token",
+    "channelMapping": {
+      "#slack": "#irc"
+    }
+  },
+  {
+    "nickname": "test2",
+    "server": "irc.bottest.org",
+    "token": "slack_bot_user_OAuth_Access_token2",
+    "channelMapping": {
+      "#slack": "#irc"
+    }
+  }
+]
